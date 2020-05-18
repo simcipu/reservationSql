@@ -23,7 +23,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 @EnableScheduling
 public class Application extends SpringBootServletInitializer {
 
-
+///prova jkz
     @Override
     protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
         return application.sources(this.getClass());
