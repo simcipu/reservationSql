@@ -10,7 +10,10 @@ package reservation.myhotelreservation;
  * @author simonecipullo
  */
 public class Constants {
-    
+
+
+
+
     
     public final static String IN = "IN";
     public final static String OUT = "OUT";
